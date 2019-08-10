@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "725128290389",
+    "firebase_url": "https://kotlinemessenger-3819f.firebaseio.com",
+    "project_id": "kotlinemessenger-3819f",
+    "storage_bucket": "kotlinemessenger-3819f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725128290389:android:42b08ad9b9d7e367",
+        "android_client_info": {
+          "package_name": "com.example.adventuremessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725128290389-a5o1gvpkoaipcr2122i6s339hrtbudf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLP_Bh6AZ_gA8WWKVBKnXZlmHUZ0SxNBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725128290389-a5o1gvpkoaipcr2122i6s339hrtbudf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
