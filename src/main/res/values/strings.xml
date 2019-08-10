@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="email_address_login">Email Address</string>
+    <string name="password_login">Password</string>
+    <string name="login_button">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">password</string>
+    <string name="backToReg">Back To Registration</string>
+</resources>
